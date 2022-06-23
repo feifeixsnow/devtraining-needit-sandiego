@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt">1b11670c2f541110772d51072799b6ee</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Home default">f8d5c1782f141110772d51072799b689</macroponent>
+        <macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Home default</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">ab2181b42f141110772d51072799b69f</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 14:50:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b32189b42f141110772d51072799b62e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Home default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_b32189b42f141110772d51072799b62e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 15:11:13</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=b32189b42f141110772d51072799b62e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c10d237ddb72db401ddcf22ebf961907</instance_id>
+        <instance_name>dev61957</instance_name>
+        <name>sys_ux_screen_b32189b42f141110772d51072799b62e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt">1b11670c2f541110772d51072799b6ee</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Home default">f8d5c1782f141110772d51072799b689</macroponent><macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Home default</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Home">ab2181b42f141110772d51072799b69f</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-22 14:50:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b32189b42f141110772d51072799b62e</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Home default</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_b32189b42f141110772d51072799b62e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-22 15:11:13</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=b32189b42f141110772d51072799b62e"/></record_update>]]></payload>
+        <payload_hash>1824371056</payload_hash>
+        <record_name>Home default</record_name>
+        <reverted_from/>
+        <source>274063882f541110772d51072799b65d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 15:11:13</sys_created_on>
+        <sys_id>9c06cdb82f141110772d51072799b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1818bf7aaf60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 15:11:13</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>9406cdb82d14111015a17e5431a31a98</update_guid>
+        <update_guid_history>9406cdb82d14111015a17e5431a31a98:1824371056,bcd54db8b81411106bd85894fabc280f:-1761191008,2263c9b446141110b104f4a01a4a9ab6:1454048459,423209f4b81411102f0d7d7dfe96267c:-858909389,6841c9b4f8141110c644490fad40ab84:780900528,523189b4a7141110e069e4ba0520e4fa:-963397864,b72189b4e314111071ec7b1e44f25f30:1684518338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 15:13:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>0d80685143f34cf8a485cd6fc5e12390</sys_id>
+        <sys_metadata>b32189b42f141110772d51072799b62e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home default</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_b32189b42f141110772d51072799b62e</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_b32189b42f141110772d51072799b62e">9c06cdb82f141110772d51072799b698</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 15:13:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
